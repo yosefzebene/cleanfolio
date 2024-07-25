@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.f3beb914.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.9645f11c.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.9645f11c.chunk.js.map",
-    "runtime-main.js": "/cleanfolio/static/js/runtime-main.c4a74007.js",
-    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.c4a74007.js.map",
-    "static/js/2.f5288c40.chunk.js": "/cleanfolio/static/js/2.f5288c40.chunk.js",
-    "static/js/2.f5288c40.chunk.js.map": "/cleanfolio/static/js/2.f5288c40.chunk.js.map",
+    "main.css": "/cleanfolio/static/css/main.7fdc4bab.css",
+    "main.js": "/cleanfolio/static/js/main.806e40d6.js",
     "index.html": "/cleanfolio/index.html",
-    "static/css/main.f3beb914.chunk.css.map": "/cleanfolio/static/css/main.f3beb914.chunk.css.map",
-    "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.f5288c40.chunk.js.LICENSE.txt"
+    "main.7fdc4bab.css.map": "/cleanfolio/static/css/main.7fdc4bab.css.map",
+    "main.806e40d6.js.map": "/cleanfolio/static/js/main.806e40d6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4a74007.js",
-    "static/js/2.f5288c40.chunk.js",
-    "static/css/main.f3beb914.chunk.css",
-    "static/js/main.9645f11c.chunk.js"
+    "static/css/main.7fdc4bab.css",
+    "static/js/main.806e40d6.js"
   ]
 }
